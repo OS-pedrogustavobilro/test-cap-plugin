@@ -1,6 +1,6 @@
 {
-    "name": "@ospedrobilr/cap-test-plugin",
-    "version": "0.0.1",
+    "name": "@ospedrobilro/cap-test-plugin",
+    "version": "0.0.2",
     "description": "Test capacitor plugin",
     "main": "dist/plugin.cjs.js",
     "module": "dist/esm/index.js",
@@ -13,7 +13,7 @@
     "license": "MIT",
     "repository": {
         "type": "git",
-        "url": "https://github.com/OS-pedrogustavobilro/test-cap-plugin"
+        "url": "git+https://github.com/OS-pedrogustavobilro/test-cap-plugin.git"
     },
     "bugs": {
         "url": "https://github.com/OS-pedrogustavobilro/test-cap-plugin/issues"
